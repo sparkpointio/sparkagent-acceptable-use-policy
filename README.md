@@ -1,50 +1,54 @@
-# Privacy Policy for SparkAgent Launchpad
+# Acceptable Use Policy for SparkAgent Launchpad
 
-**Effective Date:** January 27, 2025
+**Effective Date:** January 28, 2025
 
-SparkAgent Launchpad is committed to protecting your privacy while providing technology solutions focused on AI agents and blockchain technology. This Privacy Policy explains how we collect, use, and safeguard your information when you use our platform.
+SparkAgent Launchpad is committed to providing a safe and innovative platform for technology solutions focused on AI agents and blockchain technology. This Acceptable Use Policy outlines the rules and guidelines for using our platform responsibly.
 
-## Information We Collect
+## Acceptable Use Guidelines
 
-### Personal Information
-We may collect personal information such as your name, email address, and contact details when you create an account or contact us.
+### Permitted Activities
+Users are encouraged to engage in activities that promote innovation, collaboration, and ethical development. All projects and interactions should align with the principles of legality, integrity, and respect for others.
 
-### Technical Data
-We may gather technical information about your device and internet connection, including IP address, browser type, and access times.
+## Prohibited Activities
 
-### Usage Data
-Information about how you interact with our platform, such as activity logs and interactions with AI agents, may also be collected.
+### Illegal and Harmful Activities
+Users must not use the platform to promote or engage in activities that:
 
-## How We Use Your Information
+- Violate any applicable laws or regulations.
+- Promote hate speech, discrimination, or harassment based on race, religion, gender, sexual orientation, or any other characteristic.
+- Facilitate or participate in terrorism, violence, or other criminal acts.
+- Share, distribute, or create pornographic, obscene, or explicit material.
+- Advocate or support activities involving human trafficking, exploitation, or abuse.
+- Spread misinformation or content intended to deceive or manipulate others maliciously.
 
-We use your personal information to create and manage your account. It helps us provide customer support, analyze usage trends, and improve the functionality and security of our platform.
+### Security Violations
+Users are prohibited from:
 
-## Data Sharing
+- Attempting to gain unauthorized access to the platform or its resources.
+- Introducing malware, viruses, or other harmful code.
+- Interfering with the proper functioning of the platform.
 
-Your information may be shared with trusted third-party providers under agreements that ensure data protection. We do not sell or rent your personal information to third parties for marketing purposes.
+### Misuse of Services
+Users must not:
 
-## Data Security
+- Use the platform to send spam or unsolicited messages.
+- Exploit platform resources for unauthorized commercial purposes.
+- Engage in any activity that disrupts the experience of other users.
 
-We use standard security measures to protect your data from unauthorized access or misuse. However, no system is entirely secure. Users are encouraged to take steps to protect their data, such as using strong passwords and avoiding sharing sensitive information.
+## Enforcement and Actions
 
-## Cookies and Tracking Technologies
+We reserve the right to monitor, investigate, and take appropriate action for any violations of this policy. This includes:
 
-Our platform may use cookies and similar tools to enhance your experience and gather analytics data. You can manage cookie preferences through your browser settings.
+- Suspending or terminating accounts involved in prohibited activities.
+- Removing content that violates these guidelines.
+- Reporting illegal activities to the relevant authorities.
 
-## Third-Party Links
+## Changes to This Acceptable Use Policy
 
-Our platform may link to external websites. This Privacy Policy does not cover those sites, and we recommend reviewing their privacy policies.
+We may update this policy periodically to reflect changes in our practices or legal requirements. Significant updates will be communicated through our platform or via email.
 
-## Prohibited Content and Activities
+## Reporting Violations
 
-Our platform does not allow content related to hate, pornography, terrorism, or other harmful activities. Such content will be removed, and users may face account suspension or be reported to authorities. We are committed to a safe and respectful environment for everyone.
+If you encounter a violation of this policy or have any concerns, please report it to us at support@sparkpoint.io.
 
-## Changes to This Privacy Policy
-
-We may update this policy periodically to reflect changes in practices or legal requirements. Significant updates will be communicated through our platform or via email.
-
-## Your Rights
-
-You have the right to access your personal data, request corrections to inaccurate data, and request deletion of your data where applicable. To exercise these rights or for questions about this policy, contact us at support@sparkpoint.io.
-
-By using SparkAgent Launchpad, you agree to this Privacy Policy.
+By using SparkAgent Launchpad, you agree to comply with this Acceptable Use Policy.
