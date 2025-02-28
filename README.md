@@ -33,6 +33,7 @@ Users must not:
 
 - Use the platform to send spam or unsolicited messages.
 - Exploit platform resources for unauthorized commercial purposes.
+- Violate intellectual property rights, including unauthorized use or distribution of copyrighted material.
 - Engage in any activity that disrupts the experience of other users.
 
 ## Enforcement and Actions
